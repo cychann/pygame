@@ -29,3 +29,7 @@
 ## How to run game
 
 해당 파일들을 다운 받은 후 main.py를 실행한다.
+
+---
+
+### For Detailed description of the game, please refer to the pdf file.
