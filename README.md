@@ -29,7 +29,7 @@
 ## How to run game
 
 해당 파일들을 다운 받은 후 main.py를 실행한다.  
-\*\* 만약 pygame이 설치돠어 있지 않다면 \*\*
+**만약 pygame이 설치돠어 있지 않다면**
 
 ```
 $ pip3 install pygame or pip install pygame
